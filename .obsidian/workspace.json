@@ -11,10 +11,24 @@
             "id": "0f4e52c9d8301dee",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "test"
             }
           }
         ]
@@ -146,13 +160,23 @@
               "icon": "lucide-list",
               "title": "accomplishment 的大纲"
             }
+          },
+          {
+            "id": "5866b79c450990bc",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,11 +187,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0f4e52c9d8301dee",
   "lastOpenFiles": [
+    "test.md",
     "README.md",
     "Words/aphorism.md",
     "新建文本文档.txt",
@@ -195,7 +221,6 @@
     "Words/channel.md",
     "Words/call.md",
     "Words/bestow.md",
-    "phrase/call upon.md",
     "未命名.base",
     "Words/未命名.base",
     "phrase",
