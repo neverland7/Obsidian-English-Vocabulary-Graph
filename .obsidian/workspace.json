@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "481d12b50373fcda",
+        "id": "0b23caa27f7d9ded",
         "type": "tabs",
         "children": [
           {
-            "id": "52d6192137c42637",
+            "id": "0f4e52c9d8301dee",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -166,8 +166,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52d6192137c42637",
+  "active": "0f4e52c9d8301dee",
   "lastOpenFiles": [
+    "README.md",
+    "Words/aphorism.md",
+    "新建文本文档.txt",
+    "Words/数据库.base",
+    "Words/adhere.md",
+    "仪表盘.md",
     "Words/gear.md",
     "Words/hide.md",
     "Words/formulate.md",
@@ -184,17 +190,12 @@
     "Words/clothes.md",
     "Words/accomplishment.md",
     "Words/achievement.md",
-    "Words/adhere.md",
     "Words/attire.md",
     "Words/bequeath.md",
     "Words/channel.md",
     "Words/call.md",
     "Words/bestow.md",
     "phrase/call upon.md",
-    "phrase/call on.md",
-    "Words/turnover.md",
-    "Words/valve.md",
-    "Words/数据库.base",
     "未命名.base",
     "Words/未命名.base",
     "phrase",
@@ -202,7 +203,6 @@
     "Words",
     "suffix",
     "prefix",
-    "root",
-    "template"
+    "root"
   ]
 }
