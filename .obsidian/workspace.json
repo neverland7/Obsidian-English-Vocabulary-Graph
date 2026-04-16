@@ -11,24 +11,10 @@
             "id": "0f4e52c9d8301dee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "test"
+              "title": "New tab"
             }
           }
         ]
@@ -191,7 +177,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f4e52c9d8301dee",
+  "active": "319c577240d1d550",
   "lastOpenFiles": [
     "test.md",
     "README.md",
