@@ -24,6 +24,13 @@
 
 ## 相关单词\短语：
 
+1. [[(change or shift) gear]]
+2. [[in gear & out of gear]]
+3. [[top gear]]
+4. [[gear up(for or to do)]]
+5. [[gear (to or toward)]]
+6. [[gear for]]
+7. [[get into gear]]
 
 ## Notes：
 
